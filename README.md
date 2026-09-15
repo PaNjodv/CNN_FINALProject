@@ -20,6 +20,10 @@ This is my first project that trains a convolutional neural network (CNN) to cla
 
 ORIGINAL
 <img width="427" height="455" alt="image" src="https://github.com/user-attachments/assets/69640209-be32-4579-af88-2e4ab900e6ee" />
+
+
+
+
 MODIFIED
 <img width="427" height="455" alt="image" src="https://github.com/user-attachments/assets/9913b78f-1d9b-43db-87e4-703c83b5b77a" />
 
